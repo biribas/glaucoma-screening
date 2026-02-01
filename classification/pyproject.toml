@@ -1,0 +1,15 @@
+[project]
+name = "classifiers"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "albumentations>=2.0.8",
+    "lightning[extra]>=2.5.6",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+    "scikit-learn>=1.8.0",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+    "wandb>=0.23.0",
+]
