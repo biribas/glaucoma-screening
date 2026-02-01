@@ -1,0 +1,7 @@
+model/
+dataset/
+wandb
+lightning_logs
+.checkpoints
+__pycache__
+.venv
